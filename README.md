@@ -9,7 +9,7 @@ The framework combines camera features and radar features using adaptive weighti
 
 ---
 
-# 1. Adaptive Radar–Camera Feature Fusion Architecture
+#  Adaptive Radar–Camera Feature Fusion Architecture
 
 <img width="1600" height="900" alt="MAIN_PROCESS" src="https://github.com/user-attachments/assets/12ccc518-cb1c-4cb4-95dc-51a00363fff9" />
 
@@ -61,7 +61,7 @@ This framework enables adaptive sensor confidence balancing depending on maritim
 
 ---
 
-# 2. Maritime Radar and REVMap Generation
+# Maritime Sensing Workflow
 <img width="1536" height="1024" alt="ChatGPT Image Jun 3, 2026, 10_33_36 PM" src="https://github.com/user-attachments/assets/df5cc3fb-e08f-4928-a019-85a4780891a7" />
 
 
@@ -88,8 +88,8 @@ The REVMap visualization helps represent radar intensity distributions and impro
 
 ---
 
-# 3. Long-Range Maritime Small Object Detection
-
+# Long-Range Maritime Small Object Detection
+<img width="1693" height="929" alt="plane_multiple_output" src="https://github.com/user-attachments/assets/5c1064aa-6475-45cb-85c4-16652b13b4e8" />
 
 ## Description
 
@@ -113,51 +113,6 @@ This figure demonstrates long-range maritime object analysis using the proposed 
 
 This demonstrates the capability of MRVFusion for detecting very small maritime targets under hazy and cluttered environments.
 
----
-
-# 4. Plane Radar Image and REVMap Visualization
-
-![Plane Radar and REVMap](plane_radar_multiple.png)
-
-## Description
-
-This image shows simulated plane radar and REVMap outputs.
-
-### Features
-- Radar PPI-style visualization
-- Circular range rings
-- Target intensity mapping
-- REVMap heat visualization
-- Radar point target representation
-
-The REVMap representation improves visibility of weak radar targets and assists in radar feature learning.
-
----
-
-# 5. Maritime Object Detection and Classification
-
-![Object Detection and Classification](plane_multiple_output.png)
-
-## Description
-
-This figure presents detailed maritime object detection and classification results.
-
-### Classification Categories
-- Small fishing boats
-- Leisure boats
-- Speed boats
-- Cargo ships / tankers
-- Offshore platforms
-- Navigation buoys
-- Tiny distant targets
-- Sea clutter regions
-
-### Detection Capabilities
-- Multi-object detection
-- Long-range target analysis
-- Tiny object recognition
-- Maritime scene understanding
-- Clutter-aware classification
 
 The framework is optimized for real-time maritime surveillance and autonomous unmanned surface vehicle (USV) navigation systems.
 
