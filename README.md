@@ -6,11 +6,16 @@ MRVFusion (Maritime Radar–Vision Fusion) is a physics-guided adaptive multi-se
 
 The framework combines camera features and radar features using adaptive weighting based on environmental conditions and radar physics parameters.
 
+
+---
+
+# 1. Adaptive Radar–Camera Feature Fusion Architecture
+
+![MRVFusion Architecture]
 The proposed fusion equation is:
 
-\[
-F_{fusion} = (F_{camera} \times \alpha_c(P_e)) + (SA(F_{radar}) \times \alpha_r(P_r))
-\]
+<img width="1600" height="900" alt="MAIN_PROCESS" src="https://github.com/user-attachments/assets/12ccc518-cb1c-4cb4-95dc-51a00363fff9" />
+
 
 Where:
 
@@ -27,11 +32,6 @@ The framework improves maritime perception under:
 - Day/Night environmental changes
 - Dynamic maritime environments
 
----
-
-# 1. Adaptive Radar–Camera Feature Fusion Architecture
-
-![MRVFusion Architecture](MAIN_PROCESS.jpeg)
 
 ## Description
 
@@ -66,7 +66,8 @@ This framework enables adaptive sensor confidence balancing depending on maritim
 
 # 2. Maritime Radar and REVMap Generation
 
-![Radar and REVMap](MULTIPLE_IMAGE(1).png)
+![Radar and REVMap]
+
 
 ## Description
 
