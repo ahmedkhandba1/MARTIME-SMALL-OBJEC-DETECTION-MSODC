@@ -10,7 +10,7 @@ The framework combines camera features and radar features using adaptive weighti
 ---
 
 # 1. Adaptive Radar–Camera Feature Fusion Architecture
-<img width="1536" height="1024" alt="ChatGPT Image Jun 3, 2026, 10_33_36 PM" src="https://github.com/user-attachments/assets/df5cc3fb-e08f-4928-a019-85a4780891a7" />
+
 <img width="1600" height="900" alt="MAIN_PROCESS" src="https://github.com/user-attachments/assets/12ccc518-cb1c-4cb4-95dc-51a00363fff9" />
 
 
@@ -62,8 +62,7 @@ This framework enables adaptive sensor confidence balancing depending on maritim
 ---
 
 # 2. Maritime Radar and REVMap Generation
-
-![Radar and REVMap]
+<img width="1536" height="1024" alt="ChatGPT Image Jun 3, 2026, 10_33_36 PM" src="https://github.com/user-attachments/assets/df5cc3fb-e08f-4928-a019-85a4780891a7" />
 
 
 ## Description
