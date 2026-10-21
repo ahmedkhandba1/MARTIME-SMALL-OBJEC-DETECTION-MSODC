@@ -2,7 +2,7 @@
 
 ## Introduction
 
-MRVFusion (Maritime Radar–Vision Fusion) is a physics-guided adaptive multi-sensor fusion framework designed for robust maritime object detection, tracking, and classification in challenging coastal and port environments.
+PhyMSOD (Physics Maritime Radar–Vision Fusion) is a physics-guided adaptive multi-sensor fusion framework designed for robust maritime object detection, tracking, and classification in challenging coastal and port environments.
 
 The framework combines camera features and radar features using adaptive weighting based on environmental conditions and radar physics parameters.
 
