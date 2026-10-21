@@ -1,4 +1,4 @@
-# MRVFusion: Physics-Guided Maritime Radar–Vision Fusion Framework
+# PhyMSOD: Physics-Aware Maritime Small Object Detection using Camera-RADAR Fusion
 
 ## Introduction
 
