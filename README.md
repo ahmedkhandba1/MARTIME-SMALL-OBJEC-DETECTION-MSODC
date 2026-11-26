@@ -70,7 +70,13 @@ The clip shows radar-guided zoom and object classification
 
 https://github.com/user-attachments/assets/7f008683-b550-4298-b2b5-bc87348ba134
 
+---
 
+## Source Code
+
+The manuscript is currently under review. This repository will be updated with the source code once the paper is published.
+
+---
 # Maritime Sensing Workflow
 <img width="1536" height="1024" alt="ChatGPT Image Jun 3, 2026, 10_33_36 PM" src="https://github.com/user-attachments/assets/df5cc3fb-e08f-4928-a019-85a4780891a7" />
 
@@ -123,13 +129,7 @@ This figure demonstrates long-range maritime object analysis using the proposed 
 
 This demonstrates the capability of MRVFusion for detecting very small maritime targets under hazy and cluttered environments.
 
-
 The framework is optimized for real-time maritime surveillance and autonomous unmanned surface vehicle (USV) navigation systems.
-
-
-
-
-
 
 ---
 
@@ -155,14 +155,6 @@ The research focuses on:
 - Tiny maritime object detection
 - Adaptive environmental awareness
 - Real-time maritime navigation systems
-
-
----
-
-## Source Code
-
-The manuscript is currently under review. This repository will be updated with the source code once the paper is published.
-
 ---
 
 ## Author Affiliation
