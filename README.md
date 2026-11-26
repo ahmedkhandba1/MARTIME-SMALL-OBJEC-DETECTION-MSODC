@@ -118,6 +118,14 @@ The framework is optimized for real-time maritime surveillance and autonomous un
 
 ---
 
+## Video Clip
+
+The clip shows radar-guided zoom and object classification using the MOANA dataset.
+
+[Watch the demonstration video](./MOANA_Radar_Guided_Object_Zoom_and_Classification.mp4)
+
+---
+
 # Applications
 
 - Autonomous Unmanned Surface Vehicles (USVs)
@@ -155,9 +163,13 @@ Future extensions of MRVFusion may include:
 
 ---
 
-# Author
+## Source Code
 
-Ahmed Khan  
+The manuscript is currently under review. This repository will be updated with the source code once the paper is published.
+
+---
+
+## Author Affiliation
+
 PhD Research Scholar  
 BITS Pilani Dubai Campus
-
