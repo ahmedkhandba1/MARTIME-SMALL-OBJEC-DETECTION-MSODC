@@ -122,7 +122,11 @@ The framework is optimized for real-time maritime surveillance and autonomous un
 
 The clip shows radar-guided zoom and object classification using the MOANA dataset.
 
-[Watch the demonstration video](./MOANA_Radar_Guided_Object_Zoom_and_Classification.mp4)
+[Watch the demonstration video]
+
+https://github.com/user-attachments/assets/6a346093-7449-47c7-8916-2ad3524847f8
+
+
 
 ---
 
@@ -149,17 +153,6 @@ The research focuses on:
 - Adaptive environmental awareness
 - Real-time maritime navigation systems
 
----
-
-# Future Work
-
-Future extensions of MRVFusion may include:
-- Physics-informed neural networks (PINNs)
-- AIS integration
-- COLREG-compliant autonomous navigation
-- Real-time tracking and trajectory prediction
-- Multi-frame radar temporal fusion
-- Thermal and infrared sensor integration
 
 ---
 
