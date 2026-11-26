@@ -120,11 +120,13 @@ The framework is optimized for real-time maritime surveillance and autonomous un
 
 ## Video Clip
 
-The clip shows radar-guided zoom and object classification using the MOANA dataset.
-
+The clip shows radar-guided zoom and object classification
 [Watch the demonstration video]
 
-https://github.com/user-attachments/assets/6a346093-7449-47c7-8916-2ad3524847f8
+
+https://github.com/user-attachments/assets/7f008683-b550-4298-b2b5-bc87348ba134
+
+
 
 
 
