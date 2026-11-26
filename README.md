@@ -60,6 +60,16 @@ This figure presents the complete MRVFusion architecture.
 This framework enables adaptive sensor confidence balancing depending on maritime conditions.
 
 ---
+---
+
+## Video Clip
+
+The clip shows radar-guided zoom and object classification
+[Watch the demonstration video]
+
+
+https://github.com/user-attachments/assets/7f008683-b550-4298-b2b5-bc87348ba134
+
 
 # Maritime Sensing Workflow
 <img width="1536" height="1024" alt="ChatGPT Image Jun 3, 2026, 10_33_36 PM" src="https://github.com/user-attachments/assets/df5cc3fb-e08f-4928-a019-85a4780891a7" />
@@ -116,15 +126,6 @@ This demonstrates the capability of MRVFusion for detecting very small maritime 
 
 The framework is optimized for real-time maritime surveillance and autonomous unmanned surface vehicle (USV) navigation systems.
 
----
-
-## Video Clip
-
-The clip shows radar-guided zoom and object classification
-[Watch the demonstration video]
-
-
-https://github.com/user-attachments/assets/7f008683-b550-4298-b2b5-bc87348ba134
 
 
 
