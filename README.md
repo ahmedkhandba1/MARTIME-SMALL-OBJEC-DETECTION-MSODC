@@ -1,4 +1,4 @@
-# PhyMSOD: Physics-Aware Maritime Small Object Detection using Camera-RADAR Fusion
+# MSOD: Adaptive Multi-modal Framework for Maritime Small Object Detection under Adverse Environments
 
 ## Introduction
 
