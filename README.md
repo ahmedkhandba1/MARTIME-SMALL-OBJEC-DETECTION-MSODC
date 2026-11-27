@@ -127,7 +127,7 @@ This figure demonstrates long-range maritime object analysis using the proposed 
 - Tiny target localization
 - Reduced false alarms
 
-This demonstrates the capability of MRVFusion for detecting very small maritime targets under hazy and cluttered environments.
+This demonstrates the capability of MSOD for detecting very small maritime targets under hazy and cluttered environments.
 
 The framework is optimized for real-time maritime surveillance and autonomous unmanned surface vehicle (USV) navigation systems.
 
